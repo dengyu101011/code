@@ -1,2 +1,4 @@
 把历史区中的版本推送到远程仓库git push origin master    master 表示主分支
-第六步：
+第六步：当我又写了一个模块，需要push时，先pull,保证你的代码是远程仓库中的最新版本  git pull origin master
+====================删除远程仓库
+在github中找到你的仓库，在仓库中找到删除按钮
