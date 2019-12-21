@@ -1,0 +1,2 @@
+把历史区中的版本推送到远程仓库git push origin master    master 表示主分支
+第六步：
